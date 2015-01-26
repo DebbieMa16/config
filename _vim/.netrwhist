@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/Debbie/interview'
+let g:netrw_dirhist_2='/Users/Debbie/.vim'
+let g:netrw_dirhist_3='/Users/Debbie/61a_lab/lab3'
+let g:netrw_dirhist_4='/Users/Debbie/cs61b/lab/interface'
+let g:netrw_dirhist_5='/Users/Debbie/cs61b/lab/4_lab'
+let g:netrw_dirhist_6='/Users/Debbie/cs61b/hw4/list'
+let g:netrw_dirhist_7='/Users/Debbie/cs61b/hw/hw6'
+let g:netrw_dirhist_8='/Users/Debbie/micromouse/micromouse_algorithm'
